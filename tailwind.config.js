@@ -15,6 +15,7 @@ export default {
       colors: {
         lightBlue:'#0e061c',
         darkGreen:'#1A1A1D',
+        lightDark:'#1b0215',
       },
     },
   },
